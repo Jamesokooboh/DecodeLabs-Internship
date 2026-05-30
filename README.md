@@ -16,6 +16,7 @@ Project 1: Linux & Command Line Basics
 ​/ (The Root Zero-Point), /bin & /sbin (Essential Binaries), /etc (System Blueprints), /var (Variable Logs/Data), /tmp (The System Scratchpad), /home (Standard User Home), and /root (Protected Administrator Space).
 ​Deliverables Inside Portfolio
 ​Project-1-Linux/logs/terminal_execution.txt: Live shell logs demonstrating clean terminal navigation and successful nested directory structure expansion.
+
 ​
 Project 2: Version Control with Git
 
@@ -32,6 +33,7 @@ Project 2: Version Control with Git
 ​Deliverables Inside Portfolio
 ​This active, multi-commit GitHub Repository containing structured tracking history with clear, semantic execution records.
 ​
+
 Project 3: CI/CD Pipeline Basics
 
 ​Objective: Engineer an automated software factory by building a digital conveyor belt that builds, tests, and validates code integrity via pure automation logic.
