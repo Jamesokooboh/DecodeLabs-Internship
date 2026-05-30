@@ -1,0 +1,17 @@
+$ pwd
+/home/user
+
+$ mkdir -p app/src/main
+
+$ ls -R
+app/
+└── src/
+    └── main/
+
+$ touch file1.txt
+
+$ cp file1.txt file2.txt
+
+$ mv file2.txt backup.txt
+
+$ rm backup.txt
