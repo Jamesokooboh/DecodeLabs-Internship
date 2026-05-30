@@ -18,6 +18,7 @@ Project 1: Linux & Command Line Basics
 ​Project-1-Linux/logs/terminal_execution.txt: Live shell logs demonstrating clean terminal navigation and successful nested directory structure expansion.
 ​
 Project 2: Version Control with Git
+
 ​Objective: Transition from static storage to full lifecycle collaboration, auditability, tracking changes, and establishing a remote Source of Truth.
 ​Key Requirements Executed
 ​Cryptographic Ledger Initialization: Formulated a localized tracking mechanism running git init within the directory sandbox.
@@ -32,6 +33,7 @@ Project 2: Version Control with Git
 ​This active, multi-commit GitHub Repository containing structured tracking history with clear, semantic execution records.
 ​
 Project 3: CI/CD Pipeline Basics
+
 ​Objective: Engineer an automated software factory by building a digital conveyor belt that builds, tests, and validates code integrity via pure automation logic.
 ​Key Requirements Executed
 ​Pipeline Architecture Design: Visualized and mapped out a structural factory assembly line blueprint processing code through strict checkpoints: Code ➔ Build ➔ Test ➔ Deploy.
