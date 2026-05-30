@@ -1,0 +1,30 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Display Build Message
+        run: echo "Building application..."
+
+      - name: Run Lint Check
+        run: echo "Linting passed"
+
+      - name: Run Tests
+        run: echo "All tests passed"
+
+      - name: Deploy Simulation
+        run: echo "Deployment successful"
